@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "These Tears",
+  "base_artist": "Andy Grammer",
+  "createdAt": "2025-12-01T22:41:49.145460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "These Tears",
+      "artist": "Nik Kershaw",
+      "has_synced": true,
+      "path": "select/01_These_Tears_Nik_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wasting All These Tears",
+      "artist": "Cassadee Pope",
+      "has_synced": true,
+      "path": "select/02_Wasting_All_These_Tears_Cassadee_Pope.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can't Cry These Tears",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Can't_Cry_These_Tears_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thru These Tears",
+      "artist": "LANY",
+      "has_synced": true,
+      "path": "select/04_Thru_These_Tears_LANY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "These Tears I Cry",
+      "artist": "Wigelius",
+      "has_synced": false,
+      "path": "select/05_These_Tears_I_Cry_Wigelius.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Cry These Tears - 2021 Remaster",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/06_Can't_Cry_These_Tears_-_2021_Remaster_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can't Cry These Tears (2021 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/07_Can't_Cry_These_Tears_(2021_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wasting All These Tears",
+      "artist": "Austin Snell",
+      "has_synced": true,
+      "path": "select/08_Wasting_All_These_Tears_Austin_Snell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take These Tears",
+      "artist": "John Wetton",
+      "has_synced": false,
+      "path": "select/09_Take_These_Tears_John_Wetton.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wasting All These Tears",
+      "artist": "Austin Snell",
+      "has_synced": true,
+      "path": "select/10_Wasting_All_These_Tears_Austin_Snell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Cry These Tears",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/11_Can't_Cry_These_Tears_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "you don't deserve these tears",
+      "artist": "Lexi Jayde",
+      "has_synced": false,
+      "path": "select/12_you_don't_deserve_these_tears_Lexi_Jayde.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "These Tears",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/13_These_Tears_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "These Tears",
+      "artist": "Reckless Kelly",
+      "has_synced": false,
+      "path": "select/14_These_Tears_Reckless_Kelly.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "These Tears (No Longer For You)",
+      "artist": "Sharon Jones & The Dap-Kings",
+      "has_synced": false,
+      "path": "select/15_These_Tears_(No_Longer_For_You)_Sharon_Jones_&_The_Dap-Kings.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "These Tears",
+      "artist": "Sworn Enemy",
+      "has_synced": false,
+      "path": "select/pl_01_These_Tears_Sworn_Enemy.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "These Tears Could Rust A Train",
+      "artist": "Sworn Enemy",
+      "has_synced": false,
+      "path": "select/pl_02_These_Tears_Could_Rust_A_Train_Sworn_Enemy.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "These Tears Are Not For You",
+      "artist": "Sworn Enemy",
+      "has_synced": false,
+      "path": "select/pl_03_These_Tears_Are_Not_For_You_Sworn_Enemy.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "These Tears",
+      "artist": "Sworn Enemy",
+      "has_synced": false,
+      "path": "select/pl_04_These_Tears_Sworn_Enemy.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "These Tears",
+      "artist": "Sworn Enemy",
+      "has_synced": false,
+      "path": "select/pl_05_These_Tears_Sworn_Enemy.txt"
+    }
+  ]
+}
